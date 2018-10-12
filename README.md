@@ -1,0 +1,2 @@
+# homedir
+My favorite settings.
